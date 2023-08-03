@@ -1,0 +1,17 @@
+.header-top{
+
+}
+.container-fluid{
+
+}
+.row{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+.col-sm-7{
+    
+}
+.col{
+    padding-top: 25px;
+}
